@@ -1,0 +1,22 @@
+============================================================
+  DWSIM SCREENING TASK — SIMULATION SUMMARY
+  Generated: 2026-04-09 18:41:59
+============================================================
+
+PFR (n-pentane isomerization)
+  Cases run  : 25
+  Successful : 25
+  Failed     : 0
+  Best conversion: 100.0%  (V=5.0 m³, T=450 K)
+
+Distillation column (n-C5 / i-C5 separation)
+  Cases run  : 20
+  Successful : 20
+  Failed     : 0
+  Best distillate purity: 75.44% i-C5  (RR=4.0, N=25 stages)
+
+Total simulation runtime : 41.9 s
+Results file             : results.csv
+Plots                    : plots/
+Full log                 : simulation.log
+============================================================

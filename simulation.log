@@ -1,0 +1,47 @@
+2026-04-09 18:41:17  INFO      Logging initialised — output also written to E:\crome\dwsim_screening_v3\dwsim_screening\simulation.log
+2026-04-09 18:41:17  INFO      results.csv created at E:\crome\dwsim_screening_v3\dwsim_screening\results.csv
+2026-04-09 18:41:17  INFO      ============================================================
+2026-04-09 18:41:17  INFO      DWSIM Screening Task — started 2026-04-09 18:41:17
+2026-04-09 18:41:17  INFO      ============================================================
+2026-04-09 18:41:22  INFO      DWSIM ready.  Compounds: 1488  Property packages: 29
+2026-04-09 18:41:22  INFO      Available Property Packages:
+2026-04-09 18:41:22  INFO        - [Ideal Solution (Aqueous Electrolytes), Ideal Solution (Aqueous Electrolytes)]
+2026-04-09 18:41:22  INFO        - [CoolProp, CoolProp]
+2026-04-09 18:41:22  INFO        - [Soave-Redlich-Kwong (SRK), Soave-Redlich-Kwong (SRK)]
+2026-04-09 18:41:22  INFO        - [Peng-Robinson-Stryjek-Vera 2 (PRSV2-M), Peng-Robinson-Stryjek-Vera 2 (PRSV2-M)]
+2026-04-09 18:41:22  INFO        - [Wilson, Wilson]
+2026-04-09 18:41:22  INFO        - [NRTL, NRTL]
+2026-04-09 18:41:22  INFO        - [Peng-Robinson (PR), Peng-Robinson (PR)]
+2026-04-09 18:41:22  INFO        - [UNIQUAC, UNIQUAC]
+2026-04-09 18:41:22  INFO        - [Chao-Seader, Chao-Seader]
+2026-04-09 18:41:22  INFO        - [Grayson-Streed, Grayson-Streed]
+2026-04-09 18:41:22  INFO        - [Raoult's Law, Raoult's Law]
+2026-04-09 18:41:22  INFO        - [Lee-Kesler-Plöcker, Lee-Kesler-Plöcker]
+2026-04-09 18:41:22  INFO        - [UNIFAC, UNIFAC]
+2026-04-09 18:41:22  INFO        - [Black Oil, Black Oil]
+2026-04-09 18:41:22  INFO        - [CoolProp (Incompressible Fluids), CoolProp (Incompressible Fluids)]
+2026-04-09 18:41:22  INFO        - [UNIFAC-LL, UNIFAC-LL]
+2026-04-09 18:41:22  INFO        - [Peng-Robinson-Stryjek-Vera 2 (PRSV2-VL), Peng-Robinson-Stryjek-Vera 2 (PRSV2-VL)]
+2026-04-09 18:41:22  INFO        - [Modified UNIFAC (Dortmund), Modified UNIFAC (Dortmund)]
+2026-04-09 18:41:22  INFO        - [GERG-2008, GERG-2008]
+2026-04-09 18:41:22  INFO        - [CoolProp (Incompressible Mixtures), CoolProp (Incompressible Mixtures)]
+2026-04-09 18:41:22  INFO        - [Modified UNIFAC (NIST), Modified UNIFAC (NIST)]
+2026-04-09 18:41:22  INFO        - [PC-SAFT (with Association Support) (.NET Code), PC-SAFT (with Association Support) (.NET Code)]
+2026-04-09 18:41:22  INFO        - [Steam Tables (IAPWS-IF97), Steam Tables (IAPWS-IF97)]
+2026-04-09 18:41:22  INFO        - [Peng-Robinson 1978 (PR78), Peng-Robinson 1978 (PR78)]
+2026-04-09 18:41:22  INFO        - [Seawater IAPWS-08, Seawater IAPWS-08]
+2026-04-09 18:41:22  INFO        - [Peng-Robinson 1978 (PR78) Advanced, Peng-Robinson 1978 (PR78) Advanced]
+2026-04-09 18:41:22  INFO        - [Soave-Redlich-Kwong (SRK) Advanced, Soave-Redlich-Kwong (SRK) Advanced]
+2026-04-09 18:41:22  INFO        - [ThermoC Bridge, ThermoC Bridge]
+2026-04-09 18:41:22  INFO        - [CAPE-OPEN, CAPE-OPEN]
+2026-04-09 18:41:22  INFO      --- PFR sweep: 25 cases (5 volumes x 5 temperatures) ---
+2026-04-09 18:41:31  INFO      PFR sweep complete — 25/25 successful.
+2026-04-09 18:41:31  INFO      --- Distillation sweep: 20 cases (5 RRs x 4 stage counts) ---
+2026-04-09 18:41:56  INFO      Distillation sweep complete — 20/20 successful.
+2026-04-09 18:41:56  INFO      Generating plots...
+2026-04-09 18:41:57  INFO      Plot saved: E:\crome\dwsim_screening_v3\dwsim_screening\plots\pfr_conversion_vs_volume.png
+2026-04-09 18:41:58  INFO      Plot saved: E:\crome\dwsim_screening_v3\dwsim_screening\plots\pfr_conversion_vs_temperature.png
+2026-04-09 18:41:58  INFO      Plot saved: E:\crome\dwsim_screening_v3\dwsim_screening\plots\col_purity_vs_reflux.png
+2026-04-09 18:41:59  INFO      Plot saved: E:\crome\dwsim_screening_v3\dwsim_screening\plots\col_duty_vs_stages.png
+2026-04-09 18:41:59  INFO      All plots saved to E:\crome\dwsim_screening_v3\dwsim_screening\plots/
+2026-04-09 18:41:59  INFO      Simulation report saved to E:\crome\dwsim_screening_v3\dwsim_screening\simulation_report.txt
