@@ -80,6 +80,26 @@ python run_screening.py
 
 ---
 
+### Execution Snapshot
+
+Below is a sample terminal output demonstrating fully automated, headless execution of the simulation workflow:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ecb24052-7d37-4314-b173-26223e7196cb" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d843886-6af3-4567-b287-5edf996eaa41" width="700"/>
+</p>
+
+**Highlights:**
+- Headless execution using DWSIM Automation API (no GUI interaction)  
+- Automated parametric sweep across PFR and distillation column cases  
+- Real-time logging of simulation progress and outputs  
+- Successful execution of all simulation cases without failure
+
+---
+
 ## 4. Outputs
 
 ### 4.1 results.csv
