@@ -84,10 +84,12 @@ python run_screening.py
 
 Below is a sample terminal output demonstrating fully automated, headless execution of the simulation workflow:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ecb24052-7d37-4314-b173-26223e7196cb" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/3d843886-6af3-4567-b287-5edf996eaa41" width="45%"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ecb24052-7d37-4314-b173-26223e7196cb" height="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3d843886-6af3-4567-b287-5edf996eaa41" height="300"/></td>
+  </tr>
+</table>
 
 **Highlights:**
 - Headless execution using DWSIM Automation API (no GUI interaction)  
