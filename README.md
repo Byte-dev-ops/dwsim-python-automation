@@ -31,6 +31,17 @@ python run_screening.py
 
 ---
 
+## Demo
+
+🎥 [Watch Demo Video](your_drive_link_here)
+
+This video demonstrates:
+- Headless execution of the automation script  
+- Parametric sweep in real time  
+- Generated outputs (CSV and plots)  
+
+---
+
 ## 2. Workflow Overview
 
 ### 2.1 Flowsheet Construction
@@ -105,6 +116,16 @@ Below is a sample terminal output demonstrating fully automated, headless execut
 
 Contains all simulation cases (45 total) with:
 
+<div align="center">
+ <img width="700" height="856" alt="image" src="https://github.com/user-attachments/assets/55ec0bdf-2003-493c-8643-479d84615066" />
+
+</div>
+
+This dataset includes:
+- Input parameters  
+- Simulation outputs  
+- Success flags and error handling  
+
 **Metadata**
 
 * `case_type`, `success_flag`, `error_message`
@@ -127,6 +148,20 @@ Contains all simulation cases (45 total) with:
 ---
 
 ### 4.2 Plots (plots/ directory)
+
+Generated visualizations showing parametric trends:
+
+<div align="center">
+ <img width="600" height="657" alt="image" src="https://github.com/user-attachments/assets/99faa397-d0be-4d90-90be-987acc071fca" />
+ <img width="600" height="657" alt="image" src="https://github.com/user-attachments/assets/8b2463c7-969c-4b61-9cf8-6fa5fe908f01" />
+
+
+</div>
+
+**Insights from plots:**
+- Conversion increases with temperature and reactor volume  
+- Distillation purity improves with reflux ratio  
+- Energy consumption increases with separation performance  
 
 1. **pfr_conversion_vs_volume.png**
    Effect of reactor size on conversion
